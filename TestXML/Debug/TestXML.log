@@ -1,0 +1,18 @@
+﻿Build started 8/13/2015 3:03:18 PM.
+     1>Project "C:\Users\SSBKL012DEV\Documents\Visual Studio 2013\Projects\TestXML\TestXML\TestXML.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SSBKL012DEV\Documents\Visual Studio 2013\Projects\TestXML\Debug\TestXML.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\SSBKL012DEV\Documents\Visual Studio 2013\Projects\TestXML\Debug\TestXML.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SSBKL012DEV\Documents\Visual Studio 2013\Projects\TestXML\Debug\TestXML.lib" /MACHINE:X86 Debug\BSBFeeScale.obj
+         Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         TestXML.vcxproj -> C:\Users\SSBKL012DEV\Documents\Visual Studio 2013\Projects\TestXML\Debug\TestXML.exe
+     1>Done Building Project "C:\Users\SSBKL012DEV\Documents\Visual Studio 2013\Projects\TestXML\TestXML\TestXML.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02
